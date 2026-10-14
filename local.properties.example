@@ -1,0 +1,11 @@
+# Copy this file to `local.properties` and fill in your own keys.
+# `local.properties` is git-ignored — never commit real keys to GitHub.
+
+# Location of the Android SDK (set automatically by Android Studio).
+sdk.dir=
+
+# Get a free key at https://cloud.maptiler.com/ (no credit card required).
+MAPTILER_API_KEY=
+
+# Get a free key at https://openrouteservice.org/dev/#/signup
+ORS_API_KEY=
